@@ -8,6 +8,11 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 nltk = "^3.8.1"
+transformers = "^4.37.2"
+torch = "^2.2.0"
+betacode = "^1.0"
+pygtrie = "^2.5.0"
+greek-utils = "^0.2"
 
 
 [tool.poetry.group.dev.dependencies]
